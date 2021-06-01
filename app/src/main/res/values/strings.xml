@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">三目並べ</string>
+    <string name="reset">リセットして開始</string>
+    <string name="kei">継続</string>
+</resources>
